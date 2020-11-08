@@ -1,2 +1,2 @@
-# Fitness-Dairy-Wellness-Tracker
-A web application that allows users to input their workout data which is then listed on the website. This is meant to help track their progress in their workout. I worked on this web app in the 2020 hackRU hackathon with 3 others. Me and another team member worked on the front-end with HTML5/CSS3/JavaScript while two other members worked on the back-end with SQL and PHP.
+# Wellness-
+Application that helps lose weight, gain muscle, exercise more consistently and even helps push yourself to higher intensity when working out. 
